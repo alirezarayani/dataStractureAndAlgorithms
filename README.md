@@ -50,8 +50,10 @@ trees and graphs. In this case, the elements are arranged in a random manner.
 >
 The major or the common operations that can be performed on the data structures are:
 
-- **Searching** :We can search for any element in a data structure. Sorting: We can sort the elements of a data
-  structure either in an ascending or descending order.
+- **Searching** :We can search for any element in a data structure.
+- **Sorting**: We can sort the elements of a data structure either in an ascending or descending order.
 - **Insertion**: We can also insert the new element in a data structure.
 - **Updation**: We can also update the element, i.e., we can replace the element with another element.
 - **Deletion**: We can also perform the delete operation to remove the element from the data structure.
+
+1) [Array](./Array.md)
